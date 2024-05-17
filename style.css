@@ -1,0 +1,17 @@
+#acmelogo{
+    width: 100px;
+}
+
+.pref_list{
+    display: flex;
+    flex-direction: column;
+}
+
+.formflex{
+    display: flex;
+    flex-direction: row;
+}
+
+.row span{
+    margin-top: 40px;
+}
